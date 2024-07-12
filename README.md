@@ -4,7 +4,7 @@
 ## Three-Tier Web Architecture: Step-by-Step Process
 
 
-![Uploading 3tier.png…]()
+![Three-Tier Architecture](https://avinash.s3.amazonaws.com/3tier.png)
 
 
 ### Overview
